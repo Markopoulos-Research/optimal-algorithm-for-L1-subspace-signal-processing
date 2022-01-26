@@ -4,6 +4,7 @@ In this repo we implent the algorithm of [[1]](https://ieeexplore.ieee.org/docum
 Formally, the provided script solves 
 
 ![equation](https://latex.codecogs.com/svg.image?\mathbf{Q}_{L1}&space;=&space;\underset{\mathbf{Q}&space;\in&space;\mathbb{R}^{D\times&space;K},&space;\mathbf{Q}^T\mathbf{Q}&space;=&space;\mathbf{I}_{K}&space;}{\rm&space;argmax}&space;||\mathbf{Q}^T&space;\mathbf{X}||_{1,1})
+
 optimally for a data matrix X(DxN) of rank d with complexity ![equation](https://latex.codecogs.com/svg.image?\mathcal{O}(N^{DK-K&plus;1})).
 
 ---
