@@ -1,4 +1,4 @@
-## Optimal algorithm for L1-norm Principal Component Analysis (L1-PCA)
+## Optimal algorithm for L1-norm Principal Component Analysis (L1-PCA; L1PCA)
 
 In this repo we implent the algorithm of [[1]](https://ieeexplore.ieee.org/document/6851920) for computing the L1-norm Principal-Component of a matrix. 
 Formally, the provided script solves 
